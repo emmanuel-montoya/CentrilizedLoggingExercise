@@ -1,0 +1,9 @@
+2020-03-06T06:14:24Z, Server 30 DELETE /robots.txt HTTP/1.1" 503 55971 https://google.ru/ Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322) 
+2020-03-06T06:14:26Z, Server 30 GET /robots.txt HTTP/1.1" 503 25782 https://google.ru/ Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322) 
+2020-03-06T06:14:27Z, Server 30 DELETE /index.php HTTP/1.1" 500 37785 https://yandex.ru/ Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322) 
+2020-03-06T06:14:31Z, Server 30 PUT /readme.html HTTP/1.1" 503 53829 https://rkn.gov.ru/ Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24 
+2020-03-06T06:14:36Z, Server 30 GET /wp-amin HTTP/1.1" 503 5147 https://rkn.gov.ru/ Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24 
+2020-03-06T06:14:40Z, Server 30 GET /index.php HTTP/1.1" 500 54876 https://rkn.gov.ru/ Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1 
+2020-03-06T06:14:43Z, Server 30 DELETE /wp-cron.php HTTP/1.1" 503 63289 https://google.ru/ Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322) 
+2020-03-06T06:14:45Z, Server 30 POST /wp-includes HTTP/1.1" 500 58307 https://google.ru/ Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24 
+2020-03-06T06:14:46Z, Server 30 DELETE /wp-amin HTTP/1.1" 404 47036 https://yandex.ru/ Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24 

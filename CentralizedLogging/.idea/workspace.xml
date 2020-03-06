@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3733e6ff-14a6-459a-8055-d1c2060e227e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="293" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YbMhs8N2GZw6gslUxv2Tcz0qQA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainClass">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainClass" />
+      <module name="CentralizedLogging" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in CentralizedLogging" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CentralizedLogging" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DummyLogGeneratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CentralizedLogging" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DummyLogGeneratorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DummyLogGeneratorTest.mergedFiledExists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CentralizedLogging" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DummyLogGeneratorTest" />
+      <option name="METHOD_NAME" value="mergedFiledExists" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DummyLogGeneratorTest.validateLogMergedFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CentralizedLogging" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DummyLogGeneratorTest" />
+      <option name="METHOD_NAME" value="validateLogMergedFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="JUnit.DummyLogGeneratorTest" />
+        <item itemvalue="JUnit.DummyLogGeneratorTest.validateLogMergedFile" />
+        <item itemvalue="JUnit.DummyLogGeneratorTest.mergedFiledExists" />
+        <item itemvalue="JUnit.All in CentralizedLogging" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3733e6ff-14a6-459a-8055-d1c2060e227e" name="Default Changelist" comment="" />
+      <created>1583206962175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583206962175</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="873" y="192" key="#Project_Structure" timestamp="1583462299693">
+      <screen x="0" y="0" width="2560" height="1067" />
+    </state>
+    <state x="873" y="192" key="#Project_Structure/0.0.2560.1067/-1366.822.1366.768@0.0.2560.1067" timestamp="1583462299693" />
+    <state x="1151" y="237" key="#xdebugger.evaluate" timestamp="1583459873493">
+      <screen x="0" y="0" width="2560" height="1067" />
+    </state>
+    <state x="1151" y="237" key="#xdebugger.evaluate/0.0.2560.1067/-1366.822.1366.768@0.0.2560.1067" timestamp="1583459873493" />
+    <state x="2402" y="-1171" key="#xdebugger.evaluate/1366.-1408.2560.1067/0.0.1366.768@1366.-1408.2560.1067" timestamp="1583215225304" />
+    <state width="582" height="445" key="DebuggerActiveHint" timestamp="1583467123845">
+      <screen x="0" y="0" width="2560" height="1067" />
+    </state>
+    <state width="582" height="445" key="DebuggerActiveHint/0.0.2560.1067/-1366.822.1366.768@0.0.2560.1067" timestamp="1583467123845" />
+    <state width="2517" height="323" key="GridCell.Tab.0.bottom" timestamp="1583475421234">
+      <screen x="0" y="0" width="2560" height="1067" />
+    </state>
+    <state width="2517" height="323" key="GridCell.Tab.0.bottom/0.0.2560.1067/-1366.822.1366.768@0.0.2560.1067" timestamp="1583475421234" />
+    <state width="2517" height="358" key="GridCell.Tab.0.bottom/1366.-1408.2560.1067/0.0.1366.768@1366.-1408.2560.1067" timestamp="1583221007149" />
+    <state width="2517" height="323" key="GridCell.Tab.0.center" timestamp="1583475421234">
+      <screen x="0" y="0" width="2560" height="1067" />
+    </state>
+    <state width="2517" height="323" key="GridCell.Tab.0.center/0.0.2560.1067/-1366.822.1366.768@0.0.2560.1067" timestamp="1583475421234" />
+    <state width="2517" height="358" key="GridCell.Tab.0.center/1366.-1408.2560.1067/0.0.1366.768@1366.-1408.2560.1067" timestamp="1583221007148" />
+    <state width="2517" height="323" key="GridCell.Tab.0.left" timestamp="1583475421233">
+      <screen x="0" y="0" width="2560" height="1067" />
+    </state>
+    <state width="2517" height="323" key="GridCell.Tab.0.left/0.0.2560.1067/-1366.822.1366.768@0.0.2560.1067" timestamp="1583475421233" />
+    <state width="2517" height="358" key="GridCell.Tab.0.left/1366.-1408.2560.1067/0.0.1366.768@1366.-1408.2560.1067" timestamp="1583221007148" />
+    <state width="2517" height="323" key="GridCell.Tab.0.right" timestamp="1583475421234">
+      <screen x="0" y="0" width="2560" height="1067" />
+    </state>
+    <state width="2517" height="323" key="GridCell.Tab.0.right/0.0.2560.1067/-1366.822.1366.768@0.0.2560.1067" timestamp="1583475421234" />
+    <state width="2517" height="358" key="GridCell.Tab.0.right/1366.-1408.2560.1067/0.0.1366.768@1366.-1408.2560.1067" timestamp="1583221007148" />
+    <state width="2517" height="323" key="GridCell.Tab.1.bottom" timestamp="1583475421234">
+      <screen x="0" y="0" width="2560" height="1067" />
+    </state>
+    <state width="2517" height="323" key="GridCell.Tab.1.bottom/0.0.2560.1067/-1366.822.1366.768@0.0.2560.1067" timestamp="1583475421234" />
+    <state width="2517" height="358" key="GridCell.Tab.1.bottom/1366.-1408.2560.1067/0.0.1366.768@1366.-1408.2560.1067" timestamp="1583221007149" />
+    <state width="2517" height="323" key="GridCell.Tab.1.center" timestamp="1583475421234">
+      <screen x="0" y="0" width="2560" height="1067" />
+    </state>
+    <state width="2517" height="323" key="GridCell.Tab.1.center/0.0.2560.1067/-1366.822.1366.768@0.0.2560.1067" timestamp="1583475421234" />
+    <state width="2517" height="358" key="GridCell.Tab.1.center/1366.-1408.2560.1067/0.0.1366.768@1366.-1408.2560.1067" timestamp="1583221007149" />
+    <state width="2517" height="323" key="GridCell.Tab.1.left" timestamp="1583475421234">
+      <screen x="0" y="0" width="2560" height="1067" />
+    </state>
+    <state width="2517" height="323" key="GridCell.Tab.1.left/0.0.2560.1067/-1366.822.1366.768@0.0.2560.1067" timestamp="1583475421234" />
+    <state width="2517" height="358" key="GridCell.Tab.1.left/1366.-1408.2560.1067/0.0.1366.768@1366.-1408.2560.1067" timestamp="1583221007149" />
+    <state width="2517" height="323" key="GridCell.Tab.1.right" timestamp="1583475421234">
+      <screen x="0" y="0" width="2560" height="1067" />
+    </state>
+    <state width="2517" height="323" key="GridCell.Tab.1.right/0.0.2560.1067/-1366.822.1366.768@0.0.2560.1067" timestamp="1583475421234" />
+    <state width="2517" height="358" key="GridCell.Tab.1.right/1366.-1408.2560.1067/0.0.1366.768@1366.-1408.2560.1067" timestamp="1583221007149" />
+    <state x="2127" y="-1300" key="SettingsEditor" timestamp="1583209208391">
+      <screen x="1366" y="-1408" width="2560" height="1067" />
+    </state>
+    <state x="2127" y="-1300" key="SettingsEditor/1366.-1408.2560.1067/0.0.1366.768@1366.-1408.2560.1067" timestamp="1583209208391" />
+    <state width="1287" height="540" key="XDebugger.FullValuePopup" timestamp="1583215080486">
+      <screen x="1366" y="-1408" width="2560" height="1067" />
+    </state>
+    <state width="1287" height="540" key="XDebugger.FullValuePopup/1366.-1408.2560.1067/0.0.1366.768@1366.-1408.2560.1067" timestamp="1583215080486" />
+    <state x="977" y="358" key="com.intellij.ide.util.TipDialog" timestamp="1583455945264">
+      <screen x="0" y="0" width="2560" height="1067" />
+    </state>
+    <state x="977" y="358" key="com.intellij.ide.util.TipDialog/0.0.2560.1067/-1366.822.1366.768@0.0.2560.1067" timestamp="1583455945264" />
+    <state x="1052" y="237" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583462633056">
+      <screen x="0" y="0" width="2560" height="1067" />
+    </state>
+    <state x="1052" y="237" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.2560.1067/-1366.822.1366.768@0.0.2560.1067" timestamp="1583462633056" />
+    <state x="943" y="232" width="672" height="678" key="search.everywhere.popup" timestamp="1583468261381">
+      <screen x="0" y="0" width="2560" height="1067" />
+    </state>
+    <state x="943" y="232" width="672" height="678" key="search.everywhere.popup/0.0.2560.1067/-1366.822.1366.768@0.0.2560.1067" timestamp="1583468261381" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MainClass.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MainClass.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DummyLogGenerator.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DummyLogGeneratorTest.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DummyLogGenerator.java</url>
+          <line>181</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DummyLogGenerator.java</url>
+          <line>134</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CentralizedLogging$MainClass.ic" NAME="MainClass Coverage Results" MODIFIED="1583460957380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/CentralizedLogging$All_in_CentralizedLogging.ic" NAME="All in CentralizedLogging Coverage Results" MODIFIED="1583462574856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
